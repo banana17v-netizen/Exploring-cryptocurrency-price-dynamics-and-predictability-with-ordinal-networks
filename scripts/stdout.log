@@ -1,0 +1,5 @@
+PyTorch: 2.11.0+cpu
+Coins in op_dict: ['ADA', 'BNB', 'BTC', 'DOGE', 'ETH', 'LTC', 'SOL', 'XRP']
+log_ret shape: (2210, 8)
+=== STARTING WALK-FORWARD LOOP ===
+BTC... 61w  ETH... 61w  BNB... 
