@@ -129,4 +129,4 @@ with ordinal networks. Physica A: Statistical Mechanics and its Applications.
 
 ## License
 
-This project is released under the [MIT License](LICENSE).
+This project is released under the [NEU License](LICENSE).
