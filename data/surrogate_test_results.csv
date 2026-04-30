@@ -1,0 +1,9 @@
+coin,real_PE,surr_mean_PE,surr_std_PE,z_score,p_value,significant,interpretation
+ADA,0.999464,0.999472,0.000381,0.019,0.392,False,real < surrogate → có cấu trúc
+BNB,0.999805,0.999452,0.000391,-0.901,0.858,False,real ≈ surrogate → không có cấu trúc
+BTC,0.99977,0.999445,0.000412,-0.788,0.802,False,real ≈ surrogate → không có cấu trúc
+DOGE,0.999921,0.9995,0.000369,-1.141,0.96,False,real ≈ surrogate → không có cấu trúc
+ETH,0.999762,0.999438,0.000389,-0.834,0.814,False,real ≈ surrogate → không có cấu trúc
+LTC,0.999517,0.999599,0.000339,0.241,0.252,False,real < surrogate → có cấu trúc
+SOL,0.999791,0.999588,0.000354,-0.573,0.678,False,real ≈ surrogate → không có cấu trúc
+XRP,0.999549,0.999596,0.000379,0.124,0.304,False,real < surrogate → có cấu trúc

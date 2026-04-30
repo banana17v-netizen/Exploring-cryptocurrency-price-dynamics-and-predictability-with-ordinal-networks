@@ -1,0 +1,9 @@
+coin,lag0_corr,best_lag,best_corr,btc_leads,coin_leads
+ADA,0.6043,0,0.6043,False,False
+BNB,0.5672,0,0.5672,False,False
+BTC,1.0,0,1.0,False,False
+DOGE,0.5928,0,0.5928,False,False
+ETH,0.6858,0,0.6858,False,False
+LTC,0.6165,0,0.6165,False,False
+SOL,0.5393,0,0.5393,False,False
+XRP,0.5611,0,0.5611,False,False

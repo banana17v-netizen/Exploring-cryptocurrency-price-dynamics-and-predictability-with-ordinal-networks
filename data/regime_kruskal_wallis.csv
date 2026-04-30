@@ -1,0 +1,9 @@
+coin,H_stat,p_value,reject_H0,df
+ADA,34.2021,1e-06,True,4
+BNB,60.0089,0.0,True,4
+BTC,59.4353,0.0,True,4
+DOGE,36.6512,0.0,True,4
+ETH,3.4279,0.488923,False,4
+LTC,81.9911,0.0,True,4
+SOL,79.261,0.0,True,4
+XRP,52.0107,0.0,True,4

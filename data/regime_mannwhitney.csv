@@ -1,0 +1,11 @@
+regime_1,regime_2,U_stat,p_value,r_biserial,reject_H0,n1,n2,p_bonferroni,p_bh_fdr,sig_bonferroni,sig_bh_fdr
+Bull_2020-2021,Bear_2022,6638598.5,0.061194,0.0253,False,4400,3096,0.61194,0.067993,False,False
+Bull_2020-2021,Recovery_2023,5462600.0,0.0,0.0763,True,4400,2688,0.0,0.0,True,True
+Bull_2020-2021,Bull_2024-2025,8120071.0,0.0,-0.0805,True,4400,3416,0.0,0.0,True,True
+Bull_2020-2021,Correction_2025+,6169839.0,0.004073,0.0396,True,4400,2920,0.04073,0.005819,True,True
+Bear_2022,Recovery_2023,3948672.5,0.000793,0.051,True,3096,2688,0.00793,0.001322,True,True
+Bear_2022,Bull_2024-2025,5847175.0,0.0,-0.1058,True,3096,3416,0.0,0.0,True,True
+Bear_2022,Correction_2025+,4454521.0,0.329275,0.0145,False,3096,2920,1.0,0.329275,False,False
+Recovery_2023,Bull_2024-2025,5291459.5,0.0,-0.1525,True,2688,3416,0.0,0.0,True,True
+Recovery_2023,Correction_2025+,4053553.0,0.03296,-0.0329,True,2688,2920,0.3296,0.0412,False,True
+Bull_2024-2025,Correction_2025+,4415983.0,0.0,0.1146,True,3416,2920,0.0,0.0,True,True
